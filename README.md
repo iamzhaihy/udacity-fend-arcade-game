@@ -1,8 +1,8 @@
-# frontend-nanodegree-resume
+# frontend-nanodegree-arcade-game
 
 ### What is this?
 
-This a project for Udacity Front-end Nanodegree. It is a simple resume. Obviously, I made up some of the working experience.
+This a project for Udacity Front-end Nanodegree. It is a mini game writen in Object-oriented JavaScript.
 
 
 
@@ -18,7 +18,15 @@ All you need is to do is:
 
 
 
+
+### What are the rules?
+
+It is really simple. To move the character, you just need to press the arrow keys. The goal is to avoid the bugs and get to the river. The counter down below will show you game scores. Good luck!
+
+
+
 ### Notice
 
 1. All the things you need is in the compressed file. If the file was damaged or corrupted, you can find a copy on my Github.
 2. I will add more features to this game after I learn more about JavaScript.
+3. Feel free to play with it, you can replace the pictures with your own ones (please do not illegally use others' artworks). You can also add new member functions to `Player`, maybe a function called `sprayPesticide`? It is up to you.
