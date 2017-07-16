@@ -3,7 +3,9 @@
 ### What is this?
 
 This a project for Udacity Front-end Nanodegree. It is a mini game writen in Object-oriented JavaScript.
-Try this live demo [Arcade Game](https://iamzhaihy.github.io/udacity-fend-arcade-game/)
+You can try this live demo [Arcade Game](https://iamzhaihy.github.io/udacity-fend-arcade-game/)
+
+
 
 
 
@@ -23,6 +25,8 @@ All you need is to do is:
 ### What are the rules?
 
 It is really simple. To move the character, you just need to press the arrow keys. The goal is to avoid the bugs and get to the river. The counter down below will show you game scores. Good luck!
+
+
 
 
 
