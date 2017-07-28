@@ -11,7 +11,7 @@ You can try this live demo [Arcade Game](https://iamzhaihy.github.io/udacity-fen
 
 ### How to run it?
 
-All you need is to do is:
+All you need to do is:
 
 1. Uncompress the zip file
 2. Locate the *index.html* file
